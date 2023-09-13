@@ -1,2 +1,4 @@
-# PrepCourse-Henry
-este es un repository de prueba 
+felipe sanchez 
+este proyecto es una prueba de como clonar y guardar un repositorio en mi pc 
+
+
